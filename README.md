@@ -2,6 +2,16 @@
 
 Software for a simple 2-Radio, 4-Antenna switch.
 
+![image ](https://github.com/basepr1me/ESP32-XRadioSwitch/blob/main/images/PXL_20240101_175516424.MP.jpg)
+
+![image ](https://github.com/basepr1me/ESP32-XRadioSwitch/blob/main/images/PXL_20240102_171050068.jpg)
+
+![image ](https://github.com/basepr1me/ESP32-XRadioSwitch/blob/main/images/PXL_20240102_171059089.jpg)
+
+![image ](https://github.com/basepr1me/ESP32-XRadioSwitch/blob/main/images/PXL_20240102_171117625.jpg)
+
+![image ](https://github.com/basepr1me/ESP32-XRadioSwitch/blob/main/images/Screenshot_20240101-111452.png)
+
 Notes
 -----
 
